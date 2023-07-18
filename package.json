@@ -1,7 +1,7 @@
 {
     "urls": [
-      ["test6a.py", "github:mattytrentini/micropython-person-sensor/person_sensor.py"]
+      ["person_sensor.py", "github:mattytrentini/micropython-person-sensor/person_sensor.py"]
     ],
     "deps": [],
     "version": "0.1"
-  }
+}
